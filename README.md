@@ -6,26 +6,26 @@ Welcome to my personal repository documenting my learning path in Python! This r
 
 ## Progress Tracker
 
-- [ ] **01. Data Types**
-  - [ ] Numeric Types (`int`, `float`, `complex`)
-  - [ ] Strings & Slicing (`str`)
-  - [ ] Booleans & Truthiness (`bool`)
-  - [ ] Binary Types (`bytes`, `bytearray`, `memoryview`)
+- [x] **01. Data Types**
+  - [x] Numeric Types (`int`, `float`, `complex`)
+  - [x] Strings & Slicing (`str`)
+  - [x] Booleans & Truthiness (`bool`)
+  - [x] Binary Types (`bytes`, `bytearray`, `memoryview`)
 
-- [ ] **02. Data Structures**
-  - [ ] Lists & Dynamic Array Operations (`list`)
-  - [ ] Tuples & Unpacking (`tuple`)
-  - [ ] Dictionaries & Key-Value Logic (`dict`)
-  - [ ] Sets & Set Mathematics (`set`, `frozenset`)
-  - [ ] Arrays & Typed Sequences (`array`, `numpy`)
-  - [ ] Specialized Collections (`collections` module)
+- [x] **02. Data Structures**
+  - [x] Lists & Dynamic Array Operations (`list`)
+  - [x] Tuples & Unpacking (`tuple`)
+  - [x] Dictionaries & Key-Value Logic (`dict`)
+  - [x] Sets & Set Mathematics (`set`, `frozenset`)
+  - [x] Arrays & Typed Sequences (`array`, `numpy`)
+  - [x] Specialized Collections (`collections` module)
 
-- [ ] **03. Control Flow**
-  - [ ] Conditional Logic (`if`, `elif`, `else`)
-  - [ ] Pattern Matching (`match` / `case`)
-  - [ ] Iteration (`for` loops, `range()`, `enumerate()`, `zip()`)
-  - [ ] Conditional Loops (`while` loops, `break`, `continue`)
-  - [ ] Exception Handling (`try`, `except`, `finally`)
+- [x] **03. Control Flow**
+  - [x] Conditional Logic (`if`, `elif`, `else`)
+  - [x] Pattern Matching (`match` / `case`)
+  - [x] Iteration (`for` loops, `range()`, `enumerate()`, `zip()`)
+  - [x] Conditional Loops (`while` loops, `break`, `continue`)
+  - [x] Exception Handling (`try`, `except`, `finally`)
 
 - [ ] **04. Functions & Functional Concepts**
   - [ ] Function Basics, Parameters & Return Values
