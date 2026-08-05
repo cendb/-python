@@ -27,7 +27,7 @@ Welcome to my personal repository documenting my learning path in Python! This r
   - [x] Conditional Loops (`while` loops, `break`, `continue`)
   - [x] Exception Handling (`try`, `except`, `finally`)
 
-- [ ] **04. Functions & Functional Concepts**
+- [X] **04. Functions & Functional Concepts**
   - [ ] Function Basics, Parameters & Return Values
   - [ ] Flexible Arguments (`*args`, `**kwargs`)
   - [ ] Anonymous Functions (`lambda`)
