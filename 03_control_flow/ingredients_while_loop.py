@@ -1,13 +1,3 @@
-count = 10
-
-while count > 0:
-    print(f"Countdown: {count}")
-    count -= 1
-else:
-    print("Countdown finished!")
-
-
-
 total_ingredients = 7
 ingredients_checked = 0
 
