@@ -28,10 +28,10 @@ Welcome to my personal repository documenting my learning path in Python! This r
   - [x] Exception Handling (`try`, `except`, `finally`)
 
 - [X] **04. Functions & Functional Concepts**
-  - [ ] Function Basics, Parameters & Return Values
-  - [ ] Flexible Arguments (`*args`, `**kwargs`)
-  - [ ] Anonymous Functions (`lambda`)
-  - [ ] Comprehensions (List, Dict, Set comprehensions)
+  - [x] Function Basics, Parameters & Return Values
+  - [x] Flexible Arguments (`*args`, `**kwargs`)
+  - [x] Anonymous Functions (`lambda`)
+  - [x] Comprehensions (List, Dict, Set comprehensions)
 
 - [ ] **05. Modules & Packages**
   - [ ] Standard Library Exploration (`math`, `random`, `datetime`, `os`, `sys`)
