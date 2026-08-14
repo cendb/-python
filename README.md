@@ -33,15 +33,15 @@ Welcome to my personal repository documenting my learning path in Python! This r
   - [x] Anonymous Functions (`lambda`)
   - [x] Comprehensions (List, Dict, Set comprehensions)
 
-- [ ] **05. Modules & Packages**
-  - [ ] Standard Library Exploration (`math`, `random`, `datetime`, `os`, `sys`)
-  - [ ] Custom Imports & Project Structuring
+- [x] **05. Modules & Packages**
+  - [x] Standard Library Exploration (`math`, `random`, `datetime`, `os`, `sys`)
+  - [] Custom Imports & Project Structuring
 
-- [ ] **06. Object-Oriented Programming (OOP)**
-  - [ ] Classes, Objects, Attributes & Methods
-  - [ ] Inheritance & Polymorphism
-  - [ ] Encapsulation & Access Modifiers
-  - [ ] Dunder / Magic Methods (`__str__`, `__init__`, `__repr__`)
+- [x] **06. Object-Oriented Programming (OOP)**
+  - [x] Classes, Objects, Attributes & Methods
+  - [x] Inheritance & Polymorphism
+  - [x] Encapsulation & Access Modifiers
+  - [x] Dunder / Magic Methods (`__str__`, `__init__`, `__repr__`)
 
 ---
 
