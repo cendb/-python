@@ -28,20 +28,20 @@ Welcome to my personal repository documenting my learning path in Python! This r
   - [x] Exception Handling (`try`, `except`, `finally`)
 
 - [X] **04. Functions & Functional Concepts**
-  - [ ] Function Basics, Parameters & Return Values
-  - [ ] Flexible Arguments (`*args`, `**kwargs`)
-  - [ ] Anonymous Functions (`lambda`)
-  - [ ] Comprehensions (List, Dict, Set comprehensions)
+  - [x] Function Basics, Parameters & Return Values
+  - [x] Flexible Arguments (`*args`, `**kwargs`)
+  - [x] Anonymous Functions (`lambda`)
+  - [x] Comprehensions (List, Dict, Set comprehensions)
 
-- [ ] **05. Modules & Packages**
-  - [ ] Standard Library Exploration (`math`, `random`, `datetime`, `os`, `sys`)
-  - [ ] Custom Imports & Project Structuring
+- [x] **05. Modules & Packages**
+  - [x] Standard Library Exploration (`math`, `random`, `datetime`, `os`, `sys`)
+  - [] Custom Imports & Project Structuring
 
-- [ ] **06. Object-Oriented Programming (OOP)**
-  - [ ] Classes, Objects, Attributes & Methods
-  - [ ] Inheritance & Polymorphism
-  - [ ] Encapsulation & Access Modifiers
-  - [ ] Dunder / Magic Methods (`__str__`, `__init__`, `__repr__`)
+- [x] **06. Object-Oriented Programming (OOP)**
+  - [x] Classes, Objects, Attributes & Methods
+  - [x] Inheritance & Polymorphism
+  - [x] Encapsulation & Access Modifiers
+  - [x] Dunder / Magic Methods (`__str__`, `__init__`, `__repr__`)
 
 ---
 
